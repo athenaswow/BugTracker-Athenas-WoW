@@ -30,3 +30,8 @@ Aporte realizado por el Sr. Dennis y el Sr. Albert.
     
  ### NOTA:
   - si el error es muy evidente no hace falta adjuntar fotos, vídeos o enlaces.
+  
+  ### Páginas recomendadas para subir sus pruebas
+    - https://imgur.com/ 
+    - https://www.youtube.com/ 
+    - https://imgbb.com/
