@@ -5,7 +5,8 @@ Aporte realizado por el Sr. Dennis y el Sr. Albert.
 
 ## Guía de uso:
 
-  1. Tener una cuenta en github
+  1. Tener una cuenta en github:
+      - Guía para crear una cuenta https://youtu.be/Nbjwet8wh7M
   2. Encontrar un error dentro del juego
   3. Al momento de subir el reporte debe de cumplir las reglas, caso contrario el reporte será cerrado y desechado.
   4. Clic en "Issues":
