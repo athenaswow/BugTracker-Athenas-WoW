@@ -23,6 +23,8 @@ Aporte realizado por el Sr. Dennis y el Sr. Albert.
  - Agregar fotos y/o vídeos.
  - Agregar enlaces que validen el error (wowhead o https://cata-twinhead.twinstar.cz/)
    - Nota: https://cata-twinhead.twinstar.cz/ es una web que maneja las bases de datos de: Vanilla, TBC, Wotlk y Cataclysm.
+ 
+ ### Solo para Maestros de Juego
  - Elegir la etiqueta adecuada para el tipo de error reportado.
     - https://ibb.co/r476SPM
  - Elegir la categoría adecuada para el reporte.
