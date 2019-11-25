@@ -20,6 +20,7 @@ Aporte realizado por el Sr. Dennis y el Sr. Albert.
 ## Reglas para subir reportes:
  - Colocar en el reporte el nombre de su PJ principal.
  - Colocar en el reporte su usuario de discord (ej.: jugador#0123).
+ - Agregar link de wowhead de el hechizo, item, logro para ser mas exactos.
  - Agregar una descripción del error comprensible para cualquier persona.
  - Agregar fotos y/o vídeos.
  - Agregar enlaces que validen el error (wowhead o https://cata-twinhead.twinstar.cz/)
